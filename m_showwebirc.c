@@ -1,3 +1,9 @@
+/*
+* Este módulo creado por k4be agrega una línea al swhois indicando si el cliente conecta por webirc. 
+*
+* This module created by k4be adds a line to the swhois indicating if the client connects via webirc.
+*/
+
 #include "unrealircd.h"
  
 static ModuleInfo *showwebircMI = NULL;
