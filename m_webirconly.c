@@ -1,6 +1,10 @@
 /*
- Connected via WEBIRC users only Channel Mode +W)
- */
+* Este módulo permite colocar en modo +W un canal y así permitir enviar texto a los usuarios conectados por webirc. 
+* Es necesario el módulo m_showwebirc creado por k4be. 
+*
+* This module allows to place in W + mode a channel and thus allow to send text to the users connected by webirc.
+* The m_showwebirc module created by k4be is required
+*/
  
 #include "unrealircd.h"
  
